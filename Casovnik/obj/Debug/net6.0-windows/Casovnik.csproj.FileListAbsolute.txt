@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\bin\Debug\net6.0-windows\Casovnik.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\bin\Debug\net6.0-windows\Casovnik.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\bin\Debug\net6.0-windows\Casovnik.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\bin\Debug\net6.0-windows\Casovnik.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\bin\Debug\net6.0-windows\Casovnik.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\refint\Casovnik.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\Casovnik.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Casovnik\Casovnik\obj\Debug\net6.0-windows\ref\Casovnik.dll
